@@ -1,12 +1,17 @@
 {
 	"name": "express-redis-cache-middleware",
 	"description": "Express middleware that caches results to redis",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [],
+	"keywords": [
+		"express",
+		"middleware",
+		"redis",
+		"cache"
+	],
 	"author": "",
 	"license": "ISC",
 	"peerDependencies": {
