@@ -1,0 +1,16 @@
+{
+	"name": "foo",
+	"version": "1.0.0",
+	"description": "Example for how redis-cache middleware can be used",
+	"main": "index.js",
+	"scripts": {
+		"prestart": "yarn",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
